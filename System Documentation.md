@@ -27,13 +27,13 @@
 
 ### System Testing
 - Types of Tests:
- - Unit Testing: Validates logic of individual modules.
- - Integration Testing: Ensures combined modules work together.
- - Functional Testing: Confirms system functions as expected.
- - System Testing: Tests the full integrated software.
- - White Box & Black Box Testing: Internal code & external behavior validation.
- - Acceptance Testing: Verified by end-users for final approval.
+  - Unit Testing: Validates logic of individual modules.
+  - Integration Testing: Ensures combined modules work together.
+  - Functional Testing: Confirms system functions as expected.
+  - System Testing: Tests the full integrated software.
+  - White Box & Black Box Testing: Internal code & external behavior validation.
+  - Acceptance Testing: Verified by end-users for final approval.
 
 - Test Results:
- - All test cases passed successfully.
- - No defects encountered.
+  - All test cases passed successfully.
+  - No defects encountered.
