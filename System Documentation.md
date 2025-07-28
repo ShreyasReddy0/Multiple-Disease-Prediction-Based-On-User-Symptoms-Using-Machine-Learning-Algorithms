@@ -1,16 +1,39 @@
-## System Study
-FEASIBILITY STUDY
-           The feasibility of the project is analyzed in this phase and business proposal is put forth with a very general plan for the project and some cost estimates. During system analysis the feasibility study of the proposed system is to be carried out. This is to ensure that the proposed system is not a burden to the company.  For feasibility analysis, some understanding of the major requirements for the system is essential.
-Three key considerations involved in the feasibility analysis are,	
-•	ECONOMICAL FEASIBILITY
-•	TECHNICAL FEASIBILITY
-•	SOCIAL FEASIBILITY
-ECONOMICAL FEASIBILITY         
-  This study is carried out to check the economic impact that the system will have on the organization. The amount of fund that the company can pour into the research and development of the system is limited. The expenditures must be justified. Thus the developed system as well within the budget and this was achieved because most of the technologies used are freely available. Only the customized products had to be purchased. 
+# System Documentation
 
-TECHNICAL FEASIBILITY
-       This study is carried out to check the technical feasibility, that is, the technical requirements of the system. Any system developed must not have a high demand on the available technical resources. This will lead to high demands on the available technical resources. This will lead to high demands being placed on the client. The developed system must have a modest requirement, as only minimal or null changes are required for implementing this system.   
+### System Study
+- Feasibility Analysis
+  - Economic Feasibility: Project was built within budget using mostly open-source tools.
+  - Technical Feasibility: Runs on basic hardware and minimal tech changes.
+  - Social Feasibility: Easy to use and accepted by end users with minimal training.
+
+- Existing System
+  - Apps like Ada Health use AI for diagnosis but face issues like limited accuracy, data privacy, and potential commercial bias.
+
+- Proposed System
+  - Predicts diseases using 6 ML algorithms: Decision Tree, SVM, KNN, Logistic Regression, Naive Bayes, and Random Forest.
+  - Ensures better accuracy, privacy, personalized results, and educates users while encouraging real medical consultations.
 
 
-SOCIAL FEASIBILITY
-           The aspect of study is to check the level of acceptance of the system by the user. This includes the process of training the user to use the system efficiently. The user must not feel threatened by the system, instead must accept it as a necessity. The level of acceptance by the users solely depends on the methods that are employed to educate the user about the system and to make him familiar with it. His level of confidence must be raised so that he is also able to make some constructive criticism, which is welcomed, as he is the final user of the system.
+### System Specification
+- Hardware:
+ - Intel i7, 1TB HDD, 8GB RAM, 14" Monitor
+
+- Software:
+ - OS: Windows 10
+ - Language: Python
+ - Framework: Django
+ - Frontend: HTML, CSS, JS
+ - DB: SQLite
+
+### System Testing
+- Types of Tests:
+ - Unit Testing: Validates logic of individual modules.
+ - Integration Testing: Ensures combined modules work together.
+ - Functional Testing: Confirms system functions as expected.
+ - System Testing: Tests the full integrated software.
+ - White Box & Black Box Testing: Internal code & external behavior validation.
+ - Acceptance Testing: Verified by end-users for final approval.
+
+- Test Results:
+ - All test cases passed successfully.
+ - No defects encountered.
