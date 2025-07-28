@@ -1,6 +1,6 @@
 # Multiple Disease Prediction Based on User Symptoms using Machine Learning Algorithms
 
-About the Project
+## About the Project
 
 This project aims to predict the most probable disease based on symptoms entered by the user. It uses various supervised machine learning algorithms like Decision Tree, Random Forest, Naive Bayes, Support Vector Machine, K-Nearest Neighbors, and Logistic Regression to make accurate predictions. The system is designed to assist in early diagnosis and help users take necessary health precautions or consult a doctor on time.
 
