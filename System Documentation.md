@@ -19,11 +19,11 @@
   - Intel i7, 1TB HDD, 8GB RAM, 14" Monitor
 
 - Software:
- - OS: Windows 10
- - Language: Python
- - Framework: Django
- - Frontend: HTML, CSS, JS
- - DB: SQLite
+  - OS: Windows 10
+  - Language: Python
+  - Framework: Django
+  - Frontend: HTML, CSS, JS
+  - DB: SQLite
 
 ### System Testing
 - Types of Tests:
