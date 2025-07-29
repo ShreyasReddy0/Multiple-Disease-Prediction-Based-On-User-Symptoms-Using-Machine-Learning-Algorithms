@@ -16,7 +16,7 @@
 
 ### System Specification
 - Hardware:
- - Intel i7, 1TB HDD, 8GB RAM, 14" Monitor
+  - Intel i7, 1TB HDD, 8GB RAM, 14" Monitor
 
 - Software:
  - OS: Windows 10
